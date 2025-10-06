@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.env
+.venv
+venv/
+env/
+*.env
+
+# Jupyter/Notebooks
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Artifacts/Results
+notebooks/artifacts/
+artifacts/
+results/
+reports/
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.npy
+*.npz
+
+# OS/Editor
+.DS_Store
+Thumbs.db
